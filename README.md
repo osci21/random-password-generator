@@ -1,10 +1,10 @@
 # Custom Password Generator
 
-A clean, interactive, and terminal-based Python script that generates random passwords based on user-defined lengths. This project demonstrates basic Python control flow, loop mechanics, data validation, and use of the built-in `string` and `random` libraries.
+A simple, interactive, and terminal-based Python script that generates random passwords based on user-defined lengths. This project demonstrates basic Python control flow, loop mechanics, data validation, and use of the built-in `string` and `random` libraries
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Interactive Menu Loop:** Keeps running until the user explicitly chooses to exit (`2`).
 * **Robust Character Pool:** Utilizes a highly secure and automated mix of uppercase letters, lowercase letters, digits, and special punctuation using Python's native `string` library.
