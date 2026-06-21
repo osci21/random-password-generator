@@ -21,6 +21,7 @@ A simple, interactive, and terminal-based Python script that generates random pa
 4. Any other input triggers a fallback message, looping back to the menu smoothly.
 
 Output example:
+
 <img width="633" height="105" alt="image" src="https://github.com/user-attachments/assets/ef666154-b71b-43aa-b34f-12bdbde4d2f2" />
 
 
