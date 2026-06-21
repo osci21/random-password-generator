@@ -20,6 +20,9 @@ A simple, interactive, and terminal-based Python script that generates random pa
 3. Selecting `2` triggers a `break` statement to cleanly close the program.
 4. Any other input triggers a fallback message, looping back to the menu smoothly.
 
+<img width="686" height="97" alt="image" src="https://github.com/user-attachments/assets/3e84038a-c4c9-41bc-beed-aeff4dbddeb6" />
+
+
 ---
 
 ## Requirements & Setup
