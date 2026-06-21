@@ -27,9 +27,6 @@ A simple, interactive, and terminal-based Python script that generates random pa
 ### Prerequisites
 Make sure you have [Python 3.x](https://www.python.org/) installed on your machine.
 
-### Installation & Running the App
-1. Clone this repository or download the source code files.
-2. Open your terminal or command prompt inside the project folder.
-3. Run the script using:
-   ```bash
-   python "random password generator.py"
+### How to Run the App
+1. Open the file `random password generator.py` in your favorite Python IDE (like VS Code or Python IDLE).
+2. Click the **Run** button (or press `F5` in IDLE) to start generating passwords!
